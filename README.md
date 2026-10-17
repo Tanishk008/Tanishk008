@@ -8,9 +8,11 @@
 
 ---
 
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tanishk008&label=Profile%20Views&color=0e75b6&style=flat" alt="Tanishk008" />
+  <img src="https://komarev.com/ghpvc/?username=Tanishk008" alt="Profile Views" />
 </p>
+
 
 
 
