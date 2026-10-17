@@ -2,7 +2,7 @@
    
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?lines=SDE+%7C+Web+Developer;AI+%7C+Web3+Builder;Problem+Solver+%7C+Innovator&center=true&width=500&height=50">
-</p>
+</p> 
 
 <h3 align="center">SDE | Web Developer | Building intelligent systems with AI, Web3, and scalable software</h3>
 
